@@ -1,0 +1,1 @@
+Place mysql-connector-java-<version>.jar here (e.g. mysql-connector-java-8.0.33.jar).
