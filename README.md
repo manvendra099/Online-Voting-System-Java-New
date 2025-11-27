@@ -135,19 +135,3 @@ Right-click project → Run As → Run on Server
 Project URL:
 
 http://localhost:8080/OnlineVotingSystem/
-
-⭐ 8. What Works in Review 1
-✔ User Registration
-✔ User Login (authentication)
-✔ MySQL & JDBC connection
-✔ DAO layer (insert + select queries)
-✔ MVC structure
-✔ JSP pages connected with Servlets
-✔ Proper web.xml configuration
-⭐ 9. How to Push This Project to GitHub
-git init
-git add .
-git commit -m "Review 1 Submission - Online Voting System"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/Online-Voting-System-Java-New.git
-git push -u origin main
