@@ -1,0 +1,1 @@
+<form method='post' action='vote'><input name='candidate' required><button>Vote</button></form>

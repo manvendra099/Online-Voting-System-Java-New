@@ -1,0 +1,1 @@
+<h3>Admin Panel</h3><a href='addCandidate.jsp'>Add Candidate</a>

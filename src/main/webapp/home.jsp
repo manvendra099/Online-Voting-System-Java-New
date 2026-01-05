@@ -1,0 +1,1 @@
+<h2>Welcome</h2><a href='vote.jsp'>Vote</a>
